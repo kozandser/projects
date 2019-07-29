@@ -8,16 +8,14 @@
 * учет клиентской базы
 * анализ заездов
 
-## Общий вид:
-![](/images/carwash-ani.gif)
-
-## Схема:
-![](/images/remont_schema.png)
-
 ## Интерфейс:
-### Центральный склад:
-![](/images/remont_store.png)
-### Разборка автомобиля:
-![](/images/remont_veh.png)
-### Себестоимость ремонта:
-![](/images/remont_cost.png)
+### Общий вид:
+![](/images/carwash-ani.gif)
+### Заезды:
+![](/images/carwash-orders.jpg)
+### Прайс-листы:
+![](/images/carwash-prices.jpg)
+### Отчеты:
+![](/images/carwash-reports.jpg)
+### Меню и настройки:
+![](/images/carwash-menu.jpg)
