@@ -9,9 +9,13 @@
 * учет и анализ прочитанных книг
 
 ## Интерфейс:
-### Центральный склад:
-![](/images/remont_store.png)
-### Разборка автомобиля:
-![](/images/remont_veh.png)
-### Себестоимость ремонта:
-![](/images/remont_cost.png)
+### Фильмы:
+![](/images/mydb-movies.jpg)
+### Анализ фильмотеки 1:
+![](/images/mydb-stat1.jpg)
+### Анализ фильмотеки 1:
+![](/images/mydb-stat2.jpg)
+### Сериалы:
+![](/images/mydb-serials.jpg)
+### Анализ фильмотеки 3:
+![](/images/mydb-stat3.jpg)
