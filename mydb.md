@@ -1,23 +1,21 @@
-# Программа учета для автомоек и шиномонтажа
+# Фильмы, Сериалы, Книги
 
-**Используемые технологии:** .NET 4.5, C#, WPF, SQLite, [Reactive.UI](https://reactiveui.net/), [MahApps](https://mahapps.com/)
+**Используемые технологии:** .NET 4, C#, WPF, JSON, [Modern UI for WPF](https://github.com/firstfloorsoftware/mui)
 
 ## Назначение:
-* учет заездов на мойку
-* учет заездов на шиномонтаж
-* учет клиентской базы
-* анализ заездов
-
-## Общий вид:
-![](/images/carwash-ani.gif)
-
-## Схема:
-![](/images/remont_schema.png)
+* учет и анализ просмотренных фильмов
+* учет и анализ просмотренных сериалов с эпизодами
+* учет и анализ проходжения игр
+* учет и анализ прочитанных книг
 
 ## Интерфейс:
-### Центральный склад:
-![](/images/remont_store.png)
-### Разборка автомобиля:
-![](/images/remont_veh.png)
-### Себестоимость ремонта:
-![](/images/remont_cost.png)
+### Фильмы:
+![](/images/mydb-movies.jpg)
+### Анализ фильмотеки 1:
+![](/images/mydb-stat1.jpg)
+### Анализ фильмотеки 1:
+![](/images/mydb-stat2.jpg)
+### Сериалы:
+![](/images/mydb-serials.jpg)
+### Анализ фильмотеки 3:
+![](/images/mydb-stat3.jpg)

@@ -1,4 +1,4 @@
-# Программа учета для автомоек и шиномонтажа
+# Учет для автомоек и шиномонтажа
 
 **Используемые технологии:** .NET 4.5, C#, WPF, SQLite, [Reactive.UI](https://reactiveui.net/), [MahApps](https://mahapps.com/)
 
