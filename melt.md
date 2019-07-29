@@ -1,6 +1,6 @@
 # Производство Литьё
 
-**Используемые технологии:** .NET 4.5, C#, WPF, PostgeSQL10, [Reactive.UI](https://reactiveui.net/), [MahApps](https://mahapps.com/)
+**Используемые технологии:** .NET 4.5, C#, WPF, PostgreSQL10, [Reactive.UI](https://reactiveui.net/), [MahApps](https://mahapps.com/)
 
 ## Назначение:
 * планирование производства металлических деталей
